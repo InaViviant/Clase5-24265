@@ -1,0 +1,20 @@
+.contenedor {
+    border: 1px solid black;
+}
+
+
+
+/*medidas absolutas
+400 pixeles*/
+.pixeles{
+    width: 400px;
+}
+/*4 pulgadas*/
+.pulgadas{
+    width: 4in;
+}
+/*20 centimetros*/
+.centimetros{
+    width: 20cm;
+}
+
