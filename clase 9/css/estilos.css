@@ -1,0 +1,8 @@
+.logoFijo{
+    margin: 1%;
+    font-size: 4rem;
+    position: fixed;
+    bottom: 5%;
+    right: 2%;
+    z-index: 20;
+}

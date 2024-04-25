@@ -1,0 +1,27 @@
+img{
+    width: 15%;
+    height: auto;
+}
+
+picture{
+    display: flex;
+    padding: 2%;
+}
+
+.imgArticulo{
+   /*justify-content: space-around;*/
+    justify-content: space-between;
+}
+/* Distribución de articulos*/
+section{
+     display: flex;
+     /*Primera alineación*/
+     justify-content: space-around;
+     /*Alineación secundaria*/
+     align-items: center;
+
+}
+
+article{
+    width: 35%;
+}
